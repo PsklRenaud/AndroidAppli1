@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exo1</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="saisir_un_chiffre_entre_1_et_100">Saisir un chiffre entre 1 et 100 !</string>
+    <string name="envoyer">Envoyer</string>
+    <string name="textview1">TextView</string>
+    <string name="Titre">Ma première Appli</string>
+</resources>
